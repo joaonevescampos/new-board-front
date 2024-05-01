@@ -34,8 +34,8 @@
 }
 
 .container_image img {
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
 }
 
 
@@ -78,8 +78,8 @@
     }
 
     .main_container {
-        width: 290px;
-        height: 350px;
+        width: 320px;
+        height: 400px;
         padding: 0px;
 
     }
@@ -90,12 +90,12 @@
     }
 
     .main_container .texto {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .main_container .container_buttons button {
         width: 190px;
-        height: 28px;
+        height: 35px;
         font-size: 14px;
     }
 
