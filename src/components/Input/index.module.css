@@ -1,7 +1,7 @@
 .input_default,
 .input_error {
     width: 270px;
-    height: 40px;
+    height: 30px;
     outline: 0;
     border: 3px solid #D4CACA;
     padding-left: 20px;
@@ -21,8 +21,8 @@
 .icon {
     position: absolute;
     color: #D4CACA;
-    top: 15px;
-    right: 15px;
+    top: 10px;
+    right: 10px;
     font-size: 16px;
     cursor: pointer;
 }

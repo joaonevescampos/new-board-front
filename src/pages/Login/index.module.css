@@ -9,8 +9,8 @@
 
 .main_container {
     border-radius: 15px;
-    width: 350px;
-    height: 450px;
+    width: 320px;
+    height: 379px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -21,16 +21,16 @@
 }
 
 .main_container .logo {
-    width: 150px;
-    height: 50px;
+    width: 120px;
+    height: 45px;
 }
 
 .container_image {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
 }
 
 .container_image img {
@@ -96,7 +96,7 @@
     .main_container .container_buttons button {
         width: 190px;
         height: 35px;
-        font-size: 14px;
+        font-size: 12px;
     }
 
     .main_container .container_account {
